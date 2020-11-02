@@ -1,0 +1,9 @@
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\obj\Debug\netcoreapp3.1\HomeworkPackage.csprojAssemblyReference.cache
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\obj\Debug\netcoreapp3.1\HomeworkPackage.csproj.CoreCompileInputs.cache
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\obj\Debug\netcoreapp3.1\HomeworkPackage.AssemblyInfoInputs.cache
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\obj\Debug\netcoreapp3.1\HomeworkPackage.AssemblyInfo.cs
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\bin\Debug\netcoreapp3.1\HomeworkPackage.deps.json
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\bin\Debug\netcoreapp3.1\HomeworkPackage.dll
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\bin\Debug\netcoreapp3.1\HomeworkPackage.pdb
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\obj\Debug\netcoreapp3.1\HomeworkPackage.dll
+C:\Users\vanci\source\repos\HomeworkPackage\HomeworkPackage\obj\Debug\netcoreapp3.1\HomeworkPackage.pdb
